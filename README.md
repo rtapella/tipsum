@@ -1,4 +1,4 @@
-# TipSum 🧾
+# TipSum
 
 A smart bill and tip calculator conforming to a single-cent checksum rule for tamper-proof restaurant bills.
 
