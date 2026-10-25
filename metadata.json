@@ -2,5 +2,7 @@
   "name": "TipSum - Checksum Tip & Bill Calculator",
   "description": "Smart bill tip calculator conforming to single-cent checksums (last digit equals ones digit of digit sum) for tamper-proof restaurant bills.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
